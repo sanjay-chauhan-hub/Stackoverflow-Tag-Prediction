@@ -34,19 +34,3 @@ Calculate metrics globally by counting the total true positives, false negatives
 
 __'Macro f1 score':__ 
 Calculate metrics for each label, and find their unweighted mean. This does not take label imbalance into account.<br>
-
-https://www.kaggle.com/wiki/MeanFScore<br>
-http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
-
-## How to run the project
-Download the data from the Data Source then run the file: SO-Tag-Prediction.ipynb
-
-## Prerequisites
-You need to have installed following softwares and libraries in your machine before running this project.
-
-1. Python 3
-2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
-3. Word Cloud: https://pypi.org/project/wordcloud/
-
-## Authors
-- Gaurav Sharma - Complete work
